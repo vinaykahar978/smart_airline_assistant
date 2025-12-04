@@ -65,7 +65,7 @@ README.md         # Project documentation
 If you want to run this project locally:
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/vinaykahar978/smart_airline_assistant.git)
 cd <project-folder>
 
 pip install -r requirements.txt
